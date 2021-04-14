@@ -1,0 +1,101 @@
+body{
+  background-image: url('imgsfondomiele.jpg');
+  background-repeat: repeat;
+  background-attachment: scroll;
+}
+
+#title-section {
+  background: #ffeed0; /* colore sfondo banner*/
+  padding: 50px 0; /* margine interno: 50px sopra e sotto 0 pixel a destra e sinistra */
+  color: #0a0a0a; /* colore scritte */
+  text-align: center; /* contenuto del banner centrato nello shcermo */
+  margin-bottom: 10px
+}
+#top-section {
+  background: #ffeed0; /* colore sfondo banner*/
+  padding: 50px 0; /* margine interno: 50px sopra e sotto 0 pixel a destra e sinistra */
+  color: #0a0a0a; /* colore scritte */
+  text-align: center; /* contenuto del banner centrato nello shcermo */
+}
+#imieiprodotti {
+  background: #ffeed0; /* colore sfondo banner*/
+  padding: 50px 0; /* margine interno: 50px sopra e sotto 0 pixel a destra e sinistra */
+  color: #0a0a0a; /* colore scritte */
+  text-align: center; /* contenuto del banner centrato nello shcermo */
+  margin-bottom: 10px; margin-top: 30px
+}
+.bottoni{
+  padding: 10px 15px; /* margine interno ai bottoni */
+  background: white; /* sfondo */
+  border: 1px solid black; /* bordo dei bottoni spessore */
+  color: black; /* colore scritte  */
+  margin: 10px 20px; /* bordo esterno */
+}
+.bottoni:hover{
+  background: #ffcc00; /* cambiare lo sfondo in bianco */
+  color: #0a0a0a; /* cambiare colore delle scritte */
+  cursor: pointer; /* cambiare il cursore per mostrare la manina (pointer) */
+}
+#contatti{
+  background: #ffeed0; /* colore sfondo banner*/
+  padding: 50px 0; /* margine interno: 50px sopra e sotto 0 pixel a destra e sinistra */
+  color: #fff; /* scritte di colore bianco */
+  text-align: center; /*contenuto centrato*/
+  margin-top: 50px; /*spazio superiore*/
+}
+.cellulare{
+  width: 17%;
+  display: inline-block; /*questi div saranno posti uno a fianco all'altro*/
+  margin: 2%; /*un po di spazio tra i div*/
+  color: #2d3e50;
+}
+.mail{
+  width: 17%;
+  display: inline-block; /*questi div saranno posti uno a fianco all'altro*/
+  margin: 2%; /*un po di spazio tra i div*/
+  color: #2d3e50;
+}
+.instagram{
+  width: 17%;
+  display: inline-block; /*questi div saranno posti uno a fianco all'altro*/
+  margin: 2%; /*un po di spazio tra i div*/
+  color: #2d3e50;
+}
+#prodotti{
+  background: #ffeed0; /* colore sfondo banner*/
+  padding: 50px 0; /* margine interno: 50px sopra e sotto 0 pixel a destra e sinistra */
+  color: #fff; /* scritte di colore bianco */
+  text-align: center; /*contenuto centrato*/
+  margin-top: 50px; /*spazio superiore*/
+}
+.millefiori{
+  width: 19%;
+  display: inline-block; /*questi div saranno posti uno a fianco all'altro*/
+  margin: 2%; /*un po di spazio tra i div*/
+  color: #2d3e50;
+}
+.primaverile{
+  width: 19%;
+  display: inline-block; /*questi div saranno posti uno a fianco all'altro*/
+  margin: 2%; /*un po di spazio tra i div*/
+  color: #2d3e50;
+}
+.primaverileestivo{
+  width: 19%;
+  display: inline-block; /*questi div saranno posti uno a fianco all'altro*/
+  margin: 2%; /*un po di spazio tra i div*/
+  color: #2d3e50;
+}
+.acacia{
+  width: 19%;
+  display: inline-block; /*questi div saranno posti uno a fianco all'altro*/
+  margin: 2%; /*un po di spazio tra i div*/
+  color: #2d3e50;
+}
+footer{
+  background: #ffeed0; /* colore sfondo banner*/
+  padding: 50px 0; /* margine interno: 50px sopra e sotto 0 pixel a destra e sinistra */
+  color: #0a0a0a; /* colore scritte */
+  text-align: center; /* contenuto del banner centrato nello shcermo */
+  margin-bottom: 10px:;   margin-top: 10px
+}
